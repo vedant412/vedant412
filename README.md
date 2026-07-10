@@ -1,11 +1,11 @@
 # 💫 About Me:
 # Hi, I'm Vedant Patil 👋
 
-🎓 B.Tech CSE (Data Science) student at **VIT Pune**
-🐍 Passionate about **Python, Machine Learning, Deep Learning, and AI**
-💡 Interested in building intelligent systems and solving real-world problems with data
-🚀 Currently exploring LLMs, computer vision, and modern AI applications
-📚 Always learning, building projects, and improving my problem-solving skills
+🎓 B.Tech CSE (Data Science) student at **VIT Pune**<br>
+🐍 Passionate about **Python, Machine Learning, Deep Learning, and AI**<br>
+💡 Interested in building intelligent systems and solving real-world problems with data<br>
+🚀 Currently exploring LLMs, computer vision, and modern AI applications<br>
+📚 Always learning, building projects, and improving my problem-solving skills<br>
  
 
 
