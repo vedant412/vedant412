@@ -38,111 +38,124 @@ I'm a **Full-Stack Developer & AI/ML Enthusiast** passionate about **building pr
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Development
 
 <p align="left">
 <a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
 </a>
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-</p>
-
-### Frontend Development
-
-<p align="left">
 <a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42"/>
 </a>
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42"/>
 </a>
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-</a>
-</p>
-
-### Backend Development
-
-<p align="left">
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42"/>
 </a>
 </p>
 
-**Node.js • Express • REST APIs • Webhooks • Authentication**
+**Python • JavaScript • C++ • React • Next.js • Node.js • Express**
 
-### Database & Services
+---
 
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://redis.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
-</a>
-</p>
-
-**MongoDB • PostgreSQL • Firebase • Redis • Prisma**
-
-### AI / ML
+### 🤖 AI / Machine Learning
 
 <p align="left">
 <a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42"/>
 </a>
-<a href="https://www.tensorflow.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
 </a>
 </p>
 
-**Scikit-learn • Pandas • XGBoost • CatBoost • Random Forest**
+**Machine Learning • Deep Learning • LLMs • Embeddings • RAG • Semantic Search**
 
-**LLMs • Embeddings • RAG • Vector Search • Semantic Search • LangChain**
+**Scikit-learn • PyTorch • TensorFlow • Pandas • NumPy • XGBoost • CatBoost**
 
-### DevOps & Cloud
+---
+
+### 🧠 AI Engineering
+
+**LLM Applications • RAG Pipelines • Vector Search • Hybrid Retrieval • Knowledge Graphs**
+
+**FAISS • BM25 • Cross-Encoders • Learning-to-Rank • SHAP • LangChain**
+
+---
+
+### 🗄️ Backend & Data
 
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
 </a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
 </a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-icon.svg" width="40" height="40"/>
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42"/>
 </a>
 </p>
 
-**AWS • EC2 • Docker • GitHub Actions • Linux • Git**
+**MongoDB • PostgreSQL • Redis • Firebase • Prisma**
 
+**REST APIs • Authentication • Webhooks • Payments • Server-side Systems**
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42"/>
+</a>
+</p>
+
+**AWS • EC2 • Docker • Git • GitHub • GitHub Actions • Linux**
+
+---
+
+### 🔧 What I Work With
+
+```text
+Frontend        → React, Next.js, Tailwind
+Backend         → Node.js, Express, Python
+Databases       → MongoDB, PostgreSQL, Redis
+AI / ML         → PyTorch, Scikit-learn, XGBoost, CatBoost
+AI Engineering  → LLMs, RAG, Embeddings, Vector Search
+Search          → FAISS, BM25, Hybrid Retrieval, RRF
+Cloud           → AWS, EC2, Docker, Linux
+Services        → Firebase, Razorpay, REST APIs, Webhooks
 ---
 
 ## 🚀 Featured Projects
