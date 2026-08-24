@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="./laguna beach banner GIF by Justin.gif" width="100%" />
+  <img src="./4910984.gif" width="100%" />
 </div>
 </div>
 
