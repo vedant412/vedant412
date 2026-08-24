@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFiMmc4bTJ4eWZocW5xdW9xaXQ3dTBkZW96MW93MGR1bzA1emdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6F2CnhvhE9lkUQdhY/giphy.gif" alt="Header animation" width="100%" />
+  <div align="center">
+  <img src="./Spiderman Superhero GIF by Spider-Man Into The Spider-Verse.gif" alt="Header animation" width="100%" />
+</div>
 </div>
 
 <h1 align="center">👋 Hi, I'm VEDANT PATIL</h1>
