@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjZnA4ZGtobjhqZ3Z4a29sbDJ0aDRkYWN2aGQyOGsyZjgzY3BodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif](https://giphy.com/gifs/minecraft-xbox-v63B5WpbX0a03HAVRV)" alt="Header animation" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFiMmc4bTJ4eWZocW5xdW9xaXQ3dTBkZW96MW93MGR1bzA1emdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6F2CnhvhE9lkUQdhY/giphy.gif" alt="Header animation" width="100%" />
 </div>
 
 <h1 align="center">👋 Hi, I'm VEDANT PATIL</h1>
