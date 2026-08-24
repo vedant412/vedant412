@@ -24,7 +24,7 @@ I'm a **Full-Stack Developer & AI/ML Enthusiast** passionate about **building pr
 </td>
 
 <td width="50%" valign="middle" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmaGZhOXpuOHdtMjF0NW5zcmZmanhjaHRiNG92c2oyZ2NzZ2xteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif" alt="Coding GIF" width="50%" />
+  <img src="tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif" alt="Coding GIF" width="50%" />
 </td>
 </tr>
 </table>
