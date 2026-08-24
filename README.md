@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="./Spiderman Superhero GIF by Spider-Man Into The Spider-Verse.gif" alt="Header animation" width="100%" />
+  <img src="./Spider-man wallpaper.jpg" alt="Header animation" width="100%" />
 </div>
 </div>
 
