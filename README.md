@@ -1,92 +1,147 @@
 <div align="center">
-
-# 👋 Hi, I'm VEDANT PATIL
-
-### Full-Stack Developer • AI/ML Enthusiast • Builder
-
-**I like turning ideas into working products and solving real-world problems with code.**
-
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjZnA4ZGtobjhqZ3Z4a29sbDJ0aDRkYWN2aGQyOGsyZjgzY3BodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Header animation" width="100%" />
 </div>
 
+<h1 align="center">👋 Hi, I'm VEDANT PATIL</h1>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 About Me
+
+I'm a **Full-Stack Developer & AI/ML Enthusiast** passionate about **building products, solving problems, and exploring AI**.
+
+- 💼 Currently working at **RefactorFactory**
+- 🔭 Currently working on **Restro & AI-powered systems**
+- 🌱 Currently learning **Deep Learning & Neural Networks**
+- 🤖 Exploring **LLMs, RAG, Embeddings & AI pipelines**
+- 💬 Ask me about **React, Next.js, Node.js, Python, ML & AI**
+- ⚡ Fun fact: **I enjoy building things and figuring out how they work**
+
+</td>
+
+<td width="50%" valign="middle" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmaGZhOXpuOHdtMjF0NW5zcmZmanhjaHRiNG92c2oyZ2NzZ2xteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif" alt="Coding GIF" width="50%" />
+</td>
+</tr>
+</table>
+
 ---
 
-## 👨‍💻 About Me
+## 🚀 What I'm Working On
 
-I'm a **Computer Science student and Full-Stack Developer** interested in **AI/ML, backend systems, and product development**.
-
-* 🔭 Currently building **Restro** and working on AI-powered systems
-* 🌱 Currently learning **Deep Learning, Neural Networks & advanced ML**
-* 🤖 Exploring **LLMs, RAG, embeddings, vector databases & AI pipelines**
-* 💻 Experienced with **React, Next.js, Node.js, Express & Python**
-* ☁️ Working with **AWS, Docker, Firebase & cloud deployments**
-* 🧠 I enjoy understanding how systems work end-to-end
-* 🚀 Always building, experimenting and learning something new
+- 🍽️ **Restro** — Restaurant management & ordering platform
+- 🤖 **Redrob AI** — Intelligent candidate discovery & ranking system
+- 🎙️ **VoiceX** — AI-powered voice project
+- 🏢 **RefactorFactory** — Working on real-world software products and AI solutions
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 ### Languages
 
 <p align="left">
+<a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</a>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p align="left">
+<a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40" height="40"/>
+</a>
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</a>
 </p>
 
-### Backend
+### Backend Development
 
 <p align="left">
+<a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
 </p>
 
-### Databases & Backend Services
+**Node.js • Express • REST APIs • Webhooks • Authentication**
+
+### Database & Services
 
 <p align="left">
+<a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
+</a>
 </p>
 
-**Also working with:** Redis • Prisma • REST APIs • Webhooks
+**MongoDB • PostgreSQL • Firebase • Redis • Prisma**
 
 ### AI / ML
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</a>
 </p>
 
-**Machine Learning:**
-Scikit-learn • XGBoost • CatBoost • Random Forest • Linear Regression • Decision Trees
+**Scikit-learn • Pandas • XGBoost • CatBoost • Random Forest**
 
-**AI / LLM:**
-LLMs • Embeddings • RAG • Vector Search • Semantic Retrieval • LangChain • AI Pipelines
+**LLMs • Embeddings • RAG • Vector Search • Semantic Search • LangChain**
 
-### Cloud & DevOps
+### DevOps & Cloud
 
 <p align="left">
+<a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-icon.svg" width="40" height="40"/>
+</a>
 </p>
 
-**AWS • EC2 • Docker • GitHub Actions • Linux • Deployment & Server Management**
+**AWS • EC2 • Docker • GitHub Actions • Linux • Git**
 
 ---
 
@@ -94,158 +149,48 @@ LLMs • Embeddings • RAG • Vector Search • Semantic Retrieval • LangCha
 
 ### 🍽️ Restro
 
-A restaurant management and ordering platform focused on real-world production workflows.
+A production-focused restaurant management and ordering platform.
 
-**Working with:**
+**Tech:** `Next.js` `Node.js` `Express` `Firebase` `MongoDB` `Redis` `Razorpay` `AWS`
 
-* Next.js
-* Node.js / Express
-* Firebase Authentication
-* MongoDB
-* Razorpay
-* AWS EC2
-* Redis
-* Webhooks
-* REST APIs
-
-**Focus:** Authentication, payments, inventory, plans, order management and production deployment.
+- Authentication & email verification
+- Restaurant management
+- Orders & inventory
+- Payments & subscriptions
+- Razorpay webhooks
+- Production backend deployment
 
 ---
 
-### 🤖 Redrob AI — Intelligent Candidate Ranking
+### 🤖 Redrob AI
 
-An AI-powered candidate discovery and ranking pipeline designed to intelligently match candidates with job descriptions.
+**Intelligent Candidate Discovery & Ranking System**
 
-**Pipeline includes:**
-
-`JD Parsing → Query Expansion → Knowledge Graph → Hybrid Retrieval → RRF → Hard Constraints → Feature Engineering → Learning-to-Rank → Cross Encoder → Explainability`
-
-**Exploring:**
-
-* Embeddings & semantic search
-* BM25
-* FAISS / vector search
-* Knowledge graphs
-* LightGBM ranking
-* Cross-encoders
-* SHAP explainability
-* Candidate retrieval & ranking
-
----
-
-### ⚡ Energy Predictor
-
-A machine-learning application for predicting energy consumption using trained ML models with a web interface and deployed API.
-
-**Worked with:**
-
-* Python
-* Pandas
-* Scikit-learn
-* Machine Learning
-* REST APIs
-* React
-* Deployment
-
----
-
-### 🎓 EduLink
-
-A platform concept focused on connecting students and alumni.
-
-**Worked with:**
-
-* MERN stack
-* MongoDB
-* React
-* Node.js
-* Express
-
----
-
-### 🏠 House Price Predictor
-
-One of my early ML projects where I explored different regression algorithms and compared their performance.
-
-**Models explored:**
-
-`Linear Regression → Decision Tree → Random Forest → XGBoost → CatBoost`
-
-This project helped me understand data preprocessing, feature engineering, train/test splitting and model evaluation.
-
----
-
-## 🧠 Currently Learning
+An AI-powered recruitment pipeline designed to retrieve, rank and explain the best candidates for a given job description.
 
 ```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Neural Networks
-      ↓
-LLMs & Embeddings
-      ↓
-RAG / Vector Search
-      ↓
-Production AI Systems
-```
-
-I'm particularly interested in understanding **how AI systems can be combined with real-world applications**, rather than only training models in notebooks.
-
----
-
-## 💡 What I Like Building
-
-* 🤖 AI-powered applications
-* 🌐 Full-stack web applications
-* 📊 Machine Learning projects
-* 🔍 Search & recommendation systems
-* 🧠 LLM-powered systems
-* ⚙️ Backend APIs and production systems
-* ☁️ Cloud-deployed applications
-* 🚀 Products that solve actual problems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Build. Break. Learn. Repeat.
-
-**Always open to interesting projects, collaborations and new ideas.**
-
-</div>
+Job Description
+       ↓
+LLM Job Parser
+       ↓
+HYRE / Query Generation
+       ↓
+Knowledge Graph & Query Expansion
+       ↓
+Hybrid Retrieval
+       ↓
+RRF
+       ↓
+Top Candidates
+       ↓
+Hard Constraints
+       ↓
+Feature Engineering
+       ↓
+Learning-to-Rank
+       ↓
+Cross Encoder
+       ↓
+SHAP + Ranking Evidence
+       ↓
+Final Ranked Candidates
