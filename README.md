@@ -1,139 +1,56 @@
-<div align="center">
-  <img src="./4910984.gif" width="75%" alt="Welcome animation" />
-</div>
-
-<h1 align="center">👋 Hi, I'm Vedant Patil</h1>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 👨‍💻 About Me
-
-I'm a **full-stack developer and AI/ML enthusiast** who enjoys building products, solving problems, and exploring practical uses for AI.
-
-- 💼 Working at **RefactorFactory**
-- 🔭 Building **Restro** and AI-powered systems
-- 🌱 Learning about **deep learning and neural networks**
-- 🤖 Exploring **LLMs, RAG, embeddings, and AI pipelines**
-- 💬 Ask me about **React, Next.js, Node.js, Python, machine learning, and AI**
-- ⚡ I enjoy building things and figuring out how they work
-
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif"
-        alt="Coding animation"
-        width="50%"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Projects and Work
-
-- 🍽️ **Restro** — A restaurant management and ordering platform
-- 🤖 **Redrob AI** — A system for intelligent candidate discovery and ranking
-- 🎙️ **VoiceX** — An AI-powered voice project
-- 🏢 **RefactorFactory** — Building software products and AI solutions
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Development
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" alt="Express" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-**Python · JavaScript · C++ · React · Next.js · Node.js · Express**
+### 🤖 AI & Machine Learning
 
-### 🤖 AI and Machine Learning
-
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge" alt="CatBoost" />
 </p>
 
-**Areas:** Machine learning · Deep learning · LLMs · Embeddings · RAG · Semantic search
-
-**Tools:** Scikit-learn · PyTorch · TensorFlow · Pandas · NumPy · XGBoost · CatBoost
+**Focus:** Deep learning · LLMs · Embeddings · RAG · Semantic search
 
 ### 🧠 AI Engineering
 
-LLM applications · RAG pipelines · Vector search · Hybrid retrieval · Knowledge graphs
+**LLM applications** · **RAG pipelines** · **Vector search** · **Hybrid retrieval** · **Knowledge graphs**
 
 FAISS · BM25 · Cross-encoders · Learning to rank · SHAP · LangChain
 
-### 🗄️ Backend and Data
+### 🗄️ Backend & Data
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
-
-**MongoDB · PostgreSQL · Redis · Firebase · Prisma**
 
 REST APIs · Authentication · Webhooks · Payments · Server-side systems
 
-### ☁️ Cloud and DevOps
+### ☁️ Cloud & DevOps
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42" alt="AWS" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
-**AWS · EC2 · Docker · Git · GitHub · GitHub Actions · Linux**
