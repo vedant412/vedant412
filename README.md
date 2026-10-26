@@ -1,3 +1,46 @@
+<div align="center">
+  <img src="./4910984.gif" width="75%" alt="Welcome animation" />
+</div>
+
+<h1 align="center">👋 Hi, I'm Vedant Patil</h1>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### 👨‍💻 About Me
+
+I'm a **full-stack developer and AI/ML enthusiast** who enjoys building products, solving problems, and exploring practical uses for AI.
+
+- 💼 Working at **RefactorFactory**
+- 🔭 Building **Restro** and AI-powered systems
+- 🌱 Learning about **deep learning and neural networks**
+- 🤖 Exploring **LLMs, RAG, embeddings, and AI pipelines**
+- 💬 Ask me about **React, Next.js, Node.js, Python, machine learning, and AI**
+- ⚡ I enjoy building things and figuring out how they work
+
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif"
+        alt="Coding animation"
+        width="50%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projects and Work
+
+- 🍽️ **Restro** — A restaurant management and ordering platform
+- 🤖 **Redrob AI** — A system for intelligent candidate discovery and ranking
+- 🎙️ **VoiceX** — An AI-powered voice project
+- 🏢 **RefactorFactory** — Building software products and AI solutions
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Development
